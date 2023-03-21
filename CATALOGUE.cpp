@@ -3,7 +3,7 @@
 #include <vector>
 
 
-///----------CLASA(1)_PLANETE----------///
+///----------CLASS(1)_PLANETS----------///
 
 class Sat;
 
