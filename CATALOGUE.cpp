@@ -162,7 +162,7 @@ public:
     }
 
 
-    ///--- Supraincarcare (-) ---///
+    ///---- Supraincarcare (-) ----///
     //calculeaza distanta dintre doua planete astfel:
     // verifica care e mai departe de soare
     //returneaza difrenta dintre ele
